@@ -21,7 +21,7 @@ The level loading screen doubles as the story screen, so you can choose to read 
 
 (If you aren't familiar with how tower defense shooters work, you build a maze to make the bad guys double around and give your towers as much time as possible to dust 'em) 
 
-![]({{site.baseurl}}/assets/sanctum3.jpg)
+![]({{site.baseurl}}/assets/sanctum3.png)
 
 The wall building interface, very Minecraft-esque, works well if you're just starting to learn the game, and you want very little friction between the thought, "Put wall there", and its reification. But when you start scaling up the levels, the complexity of the maps, and the number of things to build, it starts to get tedious real quick. I should mention that you are in FPS perspective the entire game, but you can only build towers or maze between waves. The tedium, which is also the difference between Sanctum and Minecraft, is the delay. To trigger any modification, you hold the mouse button (left for build, right for remove) for an annoyingly long time, probably 500-700 ms. And you're under time pressure! That quickly adds up when you only have a minute between waves. I felt like I was fighting the interface, instead of the bad guys.
 
@@ -39,7 +39,7 @@ I'd like to bitch about the lack of saving/retrying between waves. If you mess u
 
 One inconsistency in the rules of the game-there are flying enemies that can bypass your carefully wrought maze, and then there are hovering enemies that still go through the maze. Games need to be consistent about the rules of the fictitious world in which the player lives.
 
-![]({{site.baseurl}}/assets/sanctum2.jpg)
+![]({{site.baseurl}}/assets/sanctum2.png)
 There's clearance. Like right there.
 
 My biggest gripe was how non-essential and boring the player character is after building the towers or maze. The building part of the game uses all your mental resources, which are then mostly freed once the wave begins. I say mostly because shooting bad guys takes minimal concentration when you know exactly where they're going. You don't do much damage compared to your towers, and if you need to make up for poor tower placement, it's often very repetitive, mindless shooting. You shoot until your clip is empty, swap to secondary weapon, and repeat.
