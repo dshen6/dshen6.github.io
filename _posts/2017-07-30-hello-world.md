@@ -1,6 +1,6 @@
 ---
 published: true
 ---
-## Jekyll Hello World!
+## First Jekyll post!
 
 sup fam xD
