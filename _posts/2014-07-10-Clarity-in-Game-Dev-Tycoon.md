@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 [Game Dev Tycoon](http://www.greenheartgames.com/app/game-dev-tycoon/) (GDT) stars you, as a wannabe indie dev with big dreams.
 
