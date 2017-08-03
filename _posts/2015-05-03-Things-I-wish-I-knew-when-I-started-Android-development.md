@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 **Views over Fragments** - Fragments are good in theory, but not in practice. As explained [here](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html) Fragment transition state errors are notoriously difficult to debug. Views are simpler with fewer lifecycle methods; anything you want to use a Fragment for can be done with Views instead, because Views have been around since the beginning (Fragments were added later). A few components are easier with Fragments, like DialogFragments and ViewPager, only because the default implementations take care of UI interactions smoothly.
 
