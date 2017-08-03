@@ -7,13 +7,13 @@ From their site: _Replay gaming history. Create best selling games. Research new
 
 You start by developing smaller games, which have only a handful of decisions to make. You choose the Genre and Topic of your game, and the Platform on which to release.
 
-![]({{site.baseurl}}/assets/gamedevtycoon1.png)
+![]({{site.baseurl}}/assets/gamedevtycoon1.jpg)
 
 You then decide how to allocate development time for specific game features, and gather Technology and Design points (more is better). After you release your game, you get reviews, which will impact your sales. With sales money, you expand, building new game engines and bigger games.
 
 GDT trains you to fixate on the review stage. Each of the numbers randomly cycle through a range close to your true score, kind of like a spinner, before settling on a number. It's immensely satisfying when you see high numbers that don't fluctuate much; it's like the critics don't even need to deliberate, your game is _just that_ good. Because GDT does such a fantastic job rewarding you, you're entirely beholden to those 4 numbers.
 
-![]({{site.baseurl}}/assets/gamedevtycoon2.png)
+![]({{site.baseurl}}/assets/gamedevtycoon2.jpg)
 
 It's unfortunate, then, that these scores depend largely on your previous reviews. This fact is not made known to you. You're left wondering why you received such mediocre reviews for a game that should be a bestseller as well (I made two Action games with similarly high Tech/Design scores, they should do about the same, right?). I was left shaking my head a couple times, but was able to pick up on the pattern eventually. And I confirmed this via the 
 [wiki](http://gamedevtycoon.wikia.com/wiki/Success_Guide#Calculating_the_review_score)
@@ -28,7 +28,7 @@ GDT doesn't manage clarity successfully to provide meaningful decisions. In GDT,
 
 Additionally, the many factors make it difficult to ascertain the individual utility of a single action. GDT gives you hints like "Zombie/Action is a great Topic/Genre combo!", and records previous choices that worked out well for you. However, the effects of the most frequent and important decision of how to allocate development time are presented ineffectually. Let me break it down.
 
-![]({{site.baseurl}}/assets/gamedevtycoon3.png)
+![]({{site.baseurl}}/assets/gamedevtycoon3.jpg)
 
 So I'm developing a new game, and I need to decide which of my employees will work on the game engine, and how much time I'll allocate for that. I'd like to be able to accurately gauge which of my employees is best suited to work on that bit. I choose a heavily tech-focused employee called Paul, and I see his contribution in the form of floating numbers representing Tech and Design points. Seems like lots of bubbles are popping up, so I guess that's good. But afterwards, my game gets shitty reviews. What the heck? There are any number of possible reasons, all of which are opaque:
 
