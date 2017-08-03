@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 {% include youtubePlayer.html id="PFSCZitQ_m8" %}
 
