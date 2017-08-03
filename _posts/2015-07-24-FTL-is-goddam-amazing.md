@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Hell yes this game is fucking awesome. Okay so here's what I love about it:
 
