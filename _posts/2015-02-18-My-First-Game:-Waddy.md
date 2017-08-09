@@ -1,5 +1,7 @@
 ---
 published: true
+description: "using Pygame and IDLE as a dev env LOL"
+tags: [games]
 ---
 {% include youtubePlayer.html id="PFSCZitQ_m8" %}
 

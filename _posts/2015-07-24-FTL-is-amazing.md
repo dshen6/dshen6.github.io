@@ -1,7 +1,9 @@
 ---
 published: true
+title: "FTL is amazing"
+description: "this game is awesome"
+tags: [games]
 ---
-this game is awesome.
 
 The decisions you make carry tremendous weight. Deciding to hire one alien species over another will impact your interactions with future space travelers, since alien crew members give you different options in dealing with threats. You are rewarded appropriately and it's so gratifying. SECRET ALIEN RACE OMG
 

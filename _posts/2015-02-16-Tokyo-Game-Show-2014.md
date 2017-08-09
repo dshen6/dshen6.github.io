@@ -1,5 +1,6 @@
 ---
 published: true
+tags: [games]
 ---
 [6180 the moon](http://store.steampowered.com/app/299660) is a puzzle platformer with a simple, well executed mechanic and delightful music. Levels are quick to restart, not too long, and accompanied with audio and visual cues.
 

@@ -1,5 +1,7 @@
 ---
 published: true
+description: "because I really wanted to work there"
+tags: [books]
 ---
 How Google Works, written by ex-CEO Eric Schmidt and former SVP of Products Jonathan Rosenberg, lays down the principles on which Google is built. Summary and thoughts:
 

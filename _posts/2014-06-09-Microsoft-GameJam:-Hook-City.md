@@ -1,5 +1,7 @@
 ---
 published: true
+description: "first hackathon - play here! super proud "
+tags: [games]
 ---
 ![]({{site.baseurl}}/assets/hookcitybanner.png) 
 

@@ -1,5 +1,8 @@
 ---
 published: true
+title: "Book Review: Attention Merchants"
+description: "'When we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default.'"
+tags: [books]
 ---
 **“Ultimately, it is not our nation or culture but the very nature of our lives that is at stake. For how we spend the brutally limited resource of our attention will determine those lives to a degree most of us may prefer not to think about. As William James observed, we must reflect that, "when we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default." We are at risk, without quite fully realizing it, of living lives that are less our own than we imagine. The goal of what follows is to help us understand more clearly how the deal went down and what it means for all of us.”**
 

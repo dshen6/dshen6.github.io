@@ -1,5 +1,6 @@
 ---
 published: true
+tags: [games]
 ---
 [Starwhal’s](http://www.starwhal.com/) another example of how polish and execution can make a simple mechanic succeed as a game. Local multiplayer games thrive on tense do-or-die moments, and Starwhal employs a time-slow whenever anyone gets close to dealing damage or knocking out someone else. It’s a bit overdone because it takes you out of the game while your brain adjusts to the different game speed, but it adds a lot to the theatricality and spectate-ability. I wish I could have seen more of the stages because they have a large impact on gameplay.
 

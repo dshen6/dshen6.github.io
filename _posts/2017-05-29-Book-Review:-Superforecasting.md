@@ -1,5 +1,9 @@
 ---
 published: true
+layout: post
+title: "Book Review: Superforecasting"
+description: "forecasting is hard"
+tags: [books]
 ---
 [Superforecasting](https://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1496084959&sr=8-1) is a super entertaining and informative story with a noble agenda it's not subtle about.
 

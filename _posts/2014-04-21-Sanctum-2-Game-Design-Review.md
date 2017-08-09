@@ -1,5 +1,7 @@
 ---
 published: true
+description: "it's fun like the first time you play it"
+tags: [games]
 ---
 [Here's](http://www.ign.com/articles/2013/05/15/sanctum-2-review) the IGN review, if you haven't heard of Sanctum before. It's an FPS/tower defense hybrid which is pretty damn fun. So don't be misled by my mostly negative commentary; it's easy to criticize, and the bad things always stand out when the rest of the game is good.
 
