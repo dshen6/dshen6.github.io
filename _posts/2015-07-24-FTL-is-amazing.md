@@ -1,7 +1,6 @@
 ---
 published: true
 title: "FTL is amazing"
-description: "this game is awesome"
 tags: [games]
 ---
 
