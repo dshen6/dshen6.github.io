@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "first hackathon - play here! super proud "
 tags: [games]
 ---

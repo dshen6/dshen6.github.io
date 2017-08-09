@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "because I really wanted to work there"
 tags: [books]
 ---

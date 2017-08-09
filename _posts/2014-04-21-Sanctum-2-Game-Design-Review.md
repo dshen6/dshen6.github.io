@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "it's fun like the first time you play it"
 tags: [games]
 ---

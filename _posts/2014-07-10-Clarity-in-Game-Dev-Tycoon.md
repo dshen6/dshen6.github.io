@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "in which i get real meta"
 tags: [games]
 ---

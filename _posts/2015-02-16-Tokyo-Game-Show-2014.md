@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "some cool indie games, bit too much of a spectacle though"
 tags: [games]
 ---

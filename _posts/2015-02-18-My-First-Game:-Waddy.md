@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "using Pygame and IDLE as a dev env LOL"
 tags: [games]
 ---

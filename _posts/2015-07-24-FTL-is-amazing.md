@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 title: "FTL is amazing"
 tags: [games]
 ---

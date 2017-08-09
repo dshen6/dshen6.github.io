@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 title: "Book Review: Attention Merchants"
 description: "'When we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default.'"
 tags: [books]

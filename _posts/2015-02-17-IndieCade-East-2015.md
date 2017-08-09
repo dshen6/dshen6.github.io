@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 description: "Starwhal, Lovers in a Dangerous Spacetime, and Under the Hood"
 tags: [games]
 ---
