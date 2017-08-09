@@ -1,4 +1,0 @@
----
-slug: dance
-name: dance 
----
