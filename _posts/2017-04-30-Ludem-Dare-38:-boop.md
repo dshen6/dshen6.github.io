@@ -1,7 +1,8 @@
 ---
 published: true
+layout: unitygame
+game: "boop_release.json"
 title: "Ludem Dare 38 Theme: 'A Small World'"
-description: "play boop here."
+description: "Play boop here. Made with my buddy in a weekend."
 tags: [games]
 ---
-[Play boop here.]({{ site.baseurl }}{% link boop.html %}) Made with my buddy in a weekend.
