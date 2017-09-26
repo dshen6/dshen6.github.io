@@ -1,4 +1,4 @@
 ---
-slug:natureislit
-name:natureislit
+slug: natureislit
+name: natureislit
 ---
