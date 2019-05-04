@@ -2,12 +2,14 @@
 
 name: d_shen
 paginate: 25
-url: https://dshen6.github.io # add your site url (format: https://example.com/)
-blog_theme: light # Or use dark
+url: https://dshen6.github.io
+blog_theme: light
 
 # Optional settings
 
+theme_toggle: true # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
 about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
+baseurl: # Set if blog doesn't sit at the root of the domain (format: /blog)
 discus_identifier: # Add your Disqus identifier
 ga_analytics: # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
@@ -22,15 +24,31 @@ social:
   twitter: # Add your Twitter handle
   email: # Add your Email address
   bitcoin: # Add your Bitcoin link or address
+  ethereum: # Add your Ethereum link or address
+  gitlab: # Add your GitLab handle
+  youtube: # Add your Youtube handle
+  twitch: # Add your Twitch handle
+  discord: # Add you Discord server invitation ID
+  tumblr: # Add your Tumblr handle
+  bitbucket: # Add your Bitbucket handle
+  docker: # Add your Docker Hub handle
+  instagram: # Add your Instagram handle
+  keybase: # Add your Keybase handle
+  medium: # Add your Medium handle
+  spotify: # Add your Spotify handle
+  stackoverflow: # Add your Stack Overflow ID number
+  steam: # Add your Steam handle
+
 
 # Important settings (change at own risk)
 
 assets:
-  features:
-    automatic_img_size: false
+  plugins:
+    css: { autoprefixer: {}}
+    img: { optim: {}}
+  source_maps: false
   sources:
-    - _assets/fonts
-    - _assets/images
+    - _assets/icons
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/yarn
@@ -52,6 +70,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - package.json
+  - package-lock.json
   - README.md
   - vendor/
   - yarn.lock

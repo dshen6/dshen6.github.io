@@ -1,25 +1,26 @@
-;(function ($, window, document, undefined) {
+// ;(function ($) {
 
-  var els = [];
+//   var els = [];
 
-  var refreshVisibility = function() {
-    $.each(els, function() {
-      if ($(this)[0].getBoundingClientRect().top < $(window).height()) {
-        $(this).addClass('appeared');
-      }
-    });
-  };
+//   var refreshVisibility = function() {
+//     $.each(els, function() {
+//       if ($(this)[0].getBoundingClientRect().top < $(window).height()) {
+//         $(this).addClass('appeared');
+//       }
+//     });
+//   };
 
-  $.fn.scrollAppear = function() {
-    this.each(function() {
-      els.push($(this));
-    });
+//   $.fn.scrollAppear = function() {
+//     this.each(function() {
+//       els.push($(this));
+//       $(this).addClass('appear');
+//     });
 
-    refreshVisibility();
+//     refreshVisibility();
 
-    $(window).scroll(function() {
-      refreshVisibility();
-    });
-    return this;
-  };
-}(jQuery, window, document));
+//     $(window).scroll(function() {
+//       refreshVisibility();
+//     });
+//     return this;
+//   };
+// }(jQuery));
