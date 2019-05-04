@@ -7,14 +7,14 @@ blog_theme: light
 
 # Optional settings
 
-theme_toggle: true # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
+theme_toggle: false # Change to true if you wish to show an icon in the navigation for dynamic theme toggling
 about_enabled: false # Change to true if you wish to show an icon in the navigation that redirects to the about page
 baseurl: # Set if blog doesn't sit at the root of the domain (format: /blog)
 discus_identifier: # Add your Disqus identifier
 ga_analytics: # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: false # Change to false if not
-scrollappear_enabled: true # Change to false to disable
+scrollappear_enabled: false # Change to false to disable
 social:
   dribbble: # Add your Dribbble handle
   facebook: # Add your Facebook handle

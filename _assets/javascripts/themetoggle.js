@@ -18,9 +18,9 @@ function themer() {
   var light = document.getElementById("light");
 
   if(tone == "dark"){
-    dark.disabled = false;
+    light.disabled = false;
   }
   else{
-    dark.disabled = true;
+    light.disabled = true;
   }
 }
