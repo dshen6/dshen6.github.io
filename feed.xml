@@ -1,20 +1,90 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>d_shen</title>
+    <description></description>
+    <link>https://dshen6.github.io</link>
+    <atom:link href="https://dshen6.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Quad Jam Summer 2019</title>
+        <description>make it thru the maze good luck!</description>
+        <pubDate>Mon, 30 Sep 2019 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/quad-summer-game-jam-2019</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/quad-summer-game-jam-2019</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Global Game Jam 2019</title>
+        <description>goons with a magic book unleash demons in a rich people house</description>
+        <pubDate>Thu, 02 May 2019 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/global-game-jam-2019</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/global-game-jam-2019</guid>
+      </item>
+    
+      <item>
+        <title>Lessons from my first backpacking adventure</title>
+        <description></description>
+        <pubDate>Mon, 18 Sep 2017 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/lessons-from-my-first-backpacking-adventure</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/lessons-from-my-first-backpacking-adventure</guid>
+      </item>
+    
+      <item>
+        <title>my internal vegetarian dialogue</title>
+        <description></description>
+        <pubDate>Sun, 13 Aug 2017 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/my-internal-vegetarian-dialogue</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/my-internal-vegetarian-dialogue</guid>
+      </item>
+    
+      <item>
+        <title>Micaya's Beginner Hip Hop Workshop</title>
+        <description>my first hip hop performance</description>
+        <pubDate>Sun, 25 Jun 2017 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/micaya-s-hip-hop-workshop</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/micaya-s-hip-hop-workshop</guid>
+      </item>
+    
+      <item>
+        <title>Book Review: Superforecasting</title>
+        <description>forecasting is hard</description>
+        <pubDate>Mon, 29 May 2017 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/book-review-superforecasting</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/book-review-superforecasting</guid>
+      </item>
+    
+      <item>
+        <title>Ludem Dare 38: boop</title>
+        <description>Play here. Theme was 'A Small World'. Made with my buddy in a weekend.</description>
+        <pubDate>Sun, 30 Apr 2017 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/ludem-dare-38-boop</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/ludem-dare-38-boop</guid>
+      </item>
+    
+      <item>
+        <title>Book Review: Attention Merchants</title>
+        <description>'When we reach the end of our days, our life experience will equal what we have paid attention to, whether by choice or default.'</description>
+        <pubDate>Sat, 04 Mar 2017 00:00:00 -0500</pubDate>
+        <link>https://dshen6.github.io/posts/book-review-the-attention-merchants</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/book-review-the-attention-merchants</guid>
+      </item>
+    
+      <item>
+        <title>FTL is amazing</title>
+        <description></description>
+        <pubDate>Fri, 24 Jul 2015 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/ftl-is-amazing</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/ftl-is-amazing</guid>
+      </item>
+    
+      <item>
+        <title>Things I Wish I Knew When I Started Android Development</title>
+        <description></description>
+        <pubDate>Sun, 03 May 2015 00:00:00 -0400</pubDate>
+        <link>https://dshen6.github.io/posts/things-i-wish-i-knew-when-i-started-android-development</link>
+        <guid isPermaLink="true">https://dshen6.github.io/posts/things-i-wish-i-knew-when-i-started-android-development</guid>
+      </item>
+    
   </channel>
 </rss>
